@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>08/28/2017 21:42:59</System:DateTime>
+<System:DateTime>08/28/2017 21:47:22</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -7913,7 +7913,7 @@ It's dead!</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>BOT or BOP?</System:String>
+<System:String>BOP</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -17317,7 +17317,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>BOP</System:String>
+<System:String>Lower fence rail</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -17740,7 +17740,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>BOP</System:String>
+<System:String>Lower fence rail</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -21553,7 +21553,7 @@ You might like to wait until you've found Jessica before heading off to grab the
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>HINT : Take a seat</System:String>
+<System:String>HINT : The most southerly seat</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
