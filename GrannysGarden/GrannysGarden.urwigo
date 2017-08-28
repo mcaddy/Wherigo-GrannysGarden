@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>08/28/2017 21:47:22</System:DateTime>
+<System:DateTime>08/28/2017 21:51:11</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -21062,8 +21062,7 @@ What a pity you don't have one?</System:String>
 
 I am the Keeper of the Castle of Dreams
 
-I am hungry, to enter the castle you must give me your cake
-</System:String>
+I am hungry, to enter the castle you must give me your cake</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -21182,7 +21181,7 @@ I am hungry, to enter the castle you must give me your cake
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>With your key you open the castle door.</System:String>
+<System:String>With one of your keys you open the castle door.</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -22279,8 +22278,7 @@ You will have to try again later.</System:String>
 
 I am the Keeper of the Castle of Dreams
 
-I am hungry, to enter the Castle you must bring me a cake
-</System:String>
+I am hungry, to enter the Castle you must bring me a cake</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
