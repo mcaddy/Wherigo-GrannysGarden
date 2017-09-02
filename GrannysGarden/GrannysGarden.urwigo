@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>08/28/2017 21:59:17</System:DateTime>
+<System:DateTime>09/02/2017 14:34:34</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -37332,33 +37332,6 @@ You will have to try someone else.</System:String>
 </Actions:RandomChoiceBranchAction>
 </Actions>
 </Actions:RandomChoiceAction>
-</Actions>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:ObjectReferenceExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key201" />
-</Target>
-</Actions:ObjectReferenceExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>Tree - A1</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</RightContent>
-</Actions:SetAction>
 </Actions>
 <Owner>
 <Wherigo:WigoFunction xsi:nil="true" ref="key202" />
