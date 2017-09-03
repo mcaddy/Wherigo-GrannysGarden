@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>09/03/2017 12:07:50</System:DateTime>
+<System:DateTime>09/03/2017 12:16:29</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -10623,6 +10623,23 @@ You will have to try again later.</System:String>
 </Actions:FunctionCallAction>
 </Actions>
 <Actions>
+<Actions:FunctionCallAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<FunctionContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoFunction xsi:nil="true" ref="key46" />
+</Target>
+</Actions:ObjectExpressionAction>
+</FunctionContent>
+</Actions:FunctionCallAction>
+</Actions>
+<Actions>
 <Actions:SetAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
@@ -10651,53 +10668,6 @@ You will have to try again later.</System:String>
 </Actions:ValueExpressionAction>
 </RightContent>
 </Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:ObjectPropertyReferenceExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoTask xsi:nil="true" ref="key48" />
-</Target>
-<Property>
-<System:String>Active</System:String>
-</Property>
-</Actions:ObjectPropertyReferenceExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:Boolean>False</System:Boolean>
-</Value>
-</Actions:ValueExpressionAction>
-</RightContent>
-</Actions:SetAction>
-</Actions>
-<Actions>
-<Actions:FunctionCallAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<FunctionContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoFunction xsi:nil="true" ref="key46" />
-</Target>
-</Actions:ObjectExpressionAction>
-</FunctionContent>
-</Actions:FunctionCallAction>
 </Actions>
 <Actions>
 <Actions:SetAction>
@@ -10786,6 +10756,36 @@ You will have to try again later.</System:String>
 <System:String>It's moth is open wide.
 
 I think it wants to eat you.</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<LeftContent>
+<Actions:ObjectPropertyReferenceExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoTask xsi:nil="true" ref="key48" />
+</Target>
+<Property>
+<System:String>Active</System:String>
+</Property>
+</Actions:ObjectPropertyReferenceExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:Boolean>False</System:Boolean>
 </Value>
 </Actions:ValueExpressionAction>
 </RightContent>
