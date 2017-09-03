@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>09/03/2017 12:29:46</System:DateTime>
+<System:DateTime>09/03/2017 14:59:45</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -7217,10 +7217,10 @@ What can you throw at the snake</System:String>
 <Wherigo:WigoMedia xsi:nil="true" />
 </Media>
 <Button1Text>
-<System:String>Apple</System:String>
+<System:String>Throw Apple</System:String>
 </Button1Text>
 <Button2Text>
-<System:String>Stick</System:String>
+<System:String>Throw Stick</System:String>
 </Button2Text>
 <ButtonClickedAction>
 <Actions:DoAction>
