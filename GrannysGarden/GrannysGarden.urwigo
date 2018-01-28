@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>01/08/2018 22:20:59</System:DateTime>
+<System:DateTime>01/28/2018 13:53:35</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -6770,6 +6770,16 @@ The witch has set some traps for you!</System:String>
 </Actions:ValueExpressionAction>
 </RightContent>
 </Actions:SetAction>
+</Actions>
+<Actions>
+<Actions:ShowScreenAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Screen>
+<Actions:WigoScreen>Inventory</Actions:WigoScreen>
+</Screen>
+</Actions:ShowScreenAction>
 </Actions>
 <Owner>
 <Wherigo:WigoCommand xsi:nil="true" ref="key31" />
