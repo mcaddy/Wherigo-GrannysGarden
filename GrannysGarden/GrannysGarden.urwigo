@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>01/28/2018 13:53:35</System:DateTime>
+<System:DateTime>02/07/2019 11:01:15</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -914,7 +914,7 @@ I will send you home at once.</System:String>
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key108">
+<Wherigo:WigoMedia key="key107">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1010,7 +1010,7 @@ I will send you home at once.</System:String>
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key106">
+<Wherigo:WigoMedia key="key105">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1074,7 +1074,7 @@ I will send you home at once.</System:String>
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key103">
+<Wherigo:WigoMedia key="key121">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1106,7 +1106,7 @@ I will send you home at once.</System:String>
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key124">
+<Wherigo:WigoMedia key="key125">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -1266,7 +1266,7 @@ I will send you home at once.</System:String>
 </Wherigo:WigoMedia>
 </Media>
 <Media>
-<Wherigo:WigoMedia key="key117">
+<Wherigo:WigoMedia key="key116">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -6551,7 +6551,7 @@ Now it is a prision for Esther.</System:String>
 <Wherigo:WigoMedia xsi:nil="true" />
 </Icon>
 <Text>
-<System:String>There are three letters on the building, what are they?</System:String>
+<System:String>There are three letters on the adjacent building, what are they?</System:String>
 </Text>
 <InputType>
 <Wherigo:WigoInputType>Text</Wherigo:WigoInputType>
@@ -8206,7 +8206,7 @@ It's dead!</System:String>
 <System:String>Cache 1 - Esther</System:String>
 </Name>
 <Description>
-<System:String>N52° 14.729 W000° 57.198</System:String>
+<System:String>N52°14.738 W000°57.104</System:String>
 </Description>
 <Visible>
 <System:Boolean>False</System:Boolean>
@@ -8260,7 +8260,7 @@ It's dead!</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>HINT : BOP</System:String>
+<System:String>HINT : Waist High</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -8494,7 +8494,7 @@ It's dead!</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>BOP</System:String>
+<System:String>Waist high</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -8737,30 +8737,30 @@ It's dead!</System:String>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.245496</System:Double>
+<System:Double>52.24564</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.953313</System:Double>
+<System:Double>-0.95174</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.245496</System:Double>
+<System:Double>52.24564</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.953313</System:Double>
+<System:Double>-0.95174</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.245496</System:Double>
+<System:Double>52.24564</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.953313</System:Double>
+<System:Double>-0.95174</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
@@ -13521,40 +13521,40 @@ Do we need this?</System:String>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2431765470312</System:Double>
+<System:Double>52.2432957368326</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950013682197384</System:Double>
+<System:Double>-0.950041995765534</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2431689466037</System:Double>
+<System:Double>52.2433011389322</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.949949765572651</System:Double>
+<System:Double>-0.949886060044418</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2431205068622</System:Double>
+<System:Double>52.2431551803358</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.949914101201315</System:Double>
+<System:Double>-0.949839778085073</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2430402292324</System:Double>
+<System:Double>52.2430510647154</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.949910399972731</System:Double>
+<System:Double>-0.949804224092363</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
@@ -13571,20 +13571,20 @@ Do we need this?</System:String>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.24307540377</System:Double>
+<System:Double>52.2431014089042</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950103847850388</System:Double>
+<System:Double>-0.950121543830469</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2431310208664</System:Double>
+<System:Double>52.243217704479</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950070232181879</System:Double>
+<System:Double>-0.950148094494196</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
@@ -15880,7 +15880,7 @@ The yellow dragon loves them.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key118">
+<Wherigo:WigoInput key="key117">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -16387,7 +16387,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key128">
+<Wherigo:WigoInput key="key122">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -16569,7 +16569,7 @@ If you don't know have a guess.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone key="key105">
+<Wherigo:WigoZone key="key103">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -16827,90 +16827,97 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Actions>
-<Actions:InputAction>
+<Actions:SetAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
+<LeftContent>
+<Actions:ObjectPropertyReferenceExpressionAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key122">
-<Identifier>
-<System:String xsi:nil="true" />
-</Identifier>
-<Name>
-<System:String>LOM - Hill &gt; Lake</System:String>
-</Name>
-<Description>
-<System:String xsi:nil="true" />
-</Description>
-<Visible>
-<System:Boolean>True</System:Boolean>
-</Visible>
-<Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key103" />
-</Image>
-<Icon>
-<Wherigo:WigoMedia xsi:nil="true" />
-</Icon>
-<Text>
-<System:String>If you want to use my road you will have to tell me what sort of trees grow in the forest?</System:String>
-</Text>
-<InputType>
-<Wherigo:WigoInputType>Text</Wherigo:WigoInputType>
-</InputType>
-<GetInputAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
+</Target>
+<Property>
+<System:String>Active</System:String>
+</Property>
+</Actions:ObjectPropertyReferenceExpressionAction>
+</LeftContent>
+<RightContent>
 <Actions:ValueExpressionAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>Thank You, you may pass!</System:String>
+<System:Boolean>False</System:Boolean>
 </Value>
 </Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key103" />
-</Media>
-<Button1Text>
-<System:String xsi:nil="true" />
-</Button1Text>
-<Button2Text>
-<System:String xsi:nil="true" />
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
+</RightContent>
+</Actions:SetAction>
+</Actions>
 <Actions>
-<Actions:IfElseAction>
+<Actions:SetAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
+<LeftContent>
+<Actions:ObjectPropertyReferenceExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoZone xsi:nil="true" ref="key101" />
+</Target>
+<Property>
+<System:String>Active</System:String>
+</Property>
+</Actions:ObjectPropertyReferenceExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:Boolean>True</System:Boolean>
+</Value>
+</Actions:ValueExpressionAction>
+</RightContent>
+</Actions:SetAction>
+</Actions>
+<Condition>
+<Actions:CompareExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Operator>
+<Actions:CompareExpressionOperator>Equal</Actions:CompareExpressionOperator>
+</Operator>
+<LeftContent>
+<Actions:InputAnswerExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+</Actions:InputAnswerExpressionAction>
+</LeftContent>
+<RightContent>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>Hill</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</RightContent>
+<IgnoreCase>
+<System:Boolean>True</System:Boolean>
+</IgnoreCase>
+</Actions:CompareExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
 <Actions>
 <Actions:IfElseBranchAction>
 <Enabled>
@@ -16927,7 +16934,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key101" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -16977,7 +16984,7 @@ You will have to try again later.</System:String>
 <Wherigo:WigoMedia xsi:nil="true" />
 </Icon>
 <Commands>
-<Wherigo:WigoCommand key="key123">
+<Wherigo:WigoCommand key="key124">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17009,7 +17016,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput key="key119">
+<Wherigo:WigoInput key="key118">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17102,7 +17109,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -17325,7 +17332,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoFunction key="key121">
+<Wherigo:WigoFunction key="key120">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17376,7 +17383,7 @@ You will have to try again later.</System:String>
 </Actions:ValueExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key106" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key105" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -17400,7 +17407,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable key="key120">
+<Wherigo:WigoVariable key="key119">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17443,7 +17450,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem key="key107">
+<Wherigo:WigoItem key="key106">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17478,7 +17485,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoItem xsi:nil="true" ref="key107" />
+<Wherigo:WigoItem xsi:nil="true" ref="key106" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -17638,7 +17645,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone key="key115">
+<Wherigo:WigoZone key="key114">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17765,7 +17772,7 @@ You will have to try again later.</System:String>
 </Actions:ValueExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key108" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key107" />
 </Media>
 </Actions:DialogEntryAction>
 </Actions>
@@ -17791,7 +17798,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem key="key110">
+<Wherigo:WigoItem key="key109">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17805,7 +17812,7 @@ You will have to try again later.</System:String>
 <System:Boolean>False</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key108" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key107" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
@@ -17821,7 +17828,7 @@ You will have to try again later.</System:String>
 </Wherigo:WigoObjectLocation>
 </ObjectLocation>
 <Commands>
-<Wherigo:WigoCommand key="key109">
+<Wherigo:WigoCommand key="key108">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17858,7 +17865,7 @@ You will have to try again later.</System:String>
 </Actions:ValueExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key108" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key107" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -17876,14 +17883,14 @@ You will have to try again later.</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key109" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key108" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key111">
+<Wherigo:WigoCommand key="key110">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -17915,7 +17922,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key110" />
+<Wherigo:WigoItem xsi:nil="true" ref="key109" />
 </Target>
 <Property>
 <System:String>Name</System:String>
@@ -17945,7 +17952,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCommand xsi:nil="true" ref="key111" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key110" />
 </Target>
 <Property>
 <System:String>Enabled</System:String>
@@ -17975,7 +17982,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCommand xsi:nil="true" ref="key109" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key108" />
 </Target>
 <Property>
 <System:String>Enabled</System:String>
@@ -18005,7 +18012,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key110" />
+<Wherigo:WigoItem xsi:nil="true" ref="key109" />
 </Target>
 <Property>
 <System:String>Opened</System:String>
@@ -18035,7 +18042,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone key="key112">
+<Wherigo:WigoZone key="key111">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -18049,13 +18056,13 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" ref="key108" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key107" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
 </Icon>
 <Commands>
-<Wherigo:WigoCommand key="key113">
+<Wherigo:WigoCommand key="key112">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -18087,7 +18094,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key110" />
+<Wherigo:WigoItem xsi:nil="true" ref="key109" />
 </Target>
 <Property>
 <System:String>Name</System:String>
@@ -18117,7 +18124,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCommand xsi:nil="true" ref="key111" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key110" />
 </Target>
 <Property>
 <System:String>Enabled</System:String>
@@ -18147,7 +18154,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCommand xsi:nil="true" ref="key109" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key108" />
 </Target>
 <Property>
 <System:String>Enabled</System:String>
@@ -18177,7 +18184,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key110" />
+<Wherigo:WigoItem xsi:nil="true" ref="key109" />
 </Target>
 <Property>
 <System:String>Opened</System:String>
@@ -18207,7 +18214,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -18237,14 +18244,14 @@ You will have to try again later.</System:String>
 </Actions:ShowScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key113" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key112" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
 </Wherigo:WigoCommand>
 </Commands>
 <Commands>
-<Wherigo:WigoCommand key="key114">
+<Wherigo:WigoCommand key="key113">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -18281,7 +18288,7 @@ You will have to try again later.</System:String>
 </Actions:ValueExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key108" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key107" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -18299,7 +18306,7 @@ You will have to try again later.</System:String>
 </Actions:MessageBoxAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key114" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key113" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -18363,7 +18370,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Owner>
 </Actions:EventAction>
 </EnterAction>
@@ -18373,7 +18380,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Owner>
 </Actions:EventAction>
 </ExitAction>
@@ -18383,7 +18390,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Owner>
 </Actions:EventAction>
 </DistantAction>
@@ -18393,7 +18400,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Owner>
 </Actions:EventAction>
 </ProximityAction>
@@ -18403,7 +18410,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Owner>
 </Actions:EventAction>
 </ActiveChangedAction>
@@ -18437,7 +18444,7 @@ You will have to try again later.</System:String>
 </Actions:ShowScreenAction>
 </Actions>
 <Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key111" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key110" />
 </Owner>
 </Actions:EventAction>
 </ExecuteAction>
@@ -18449,7 +18456,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoItem xsi:nil="true" ref="key110" />
+<Wherigo:WigoItem xsi:nil="true" ref="key109" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -18489,7 +18496,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -18589,7 +18596,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -18619,7 +18626,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem key="key116">
+<Wherigo:WigoItem key="key115">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
@@ -18654,7 +18661,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoItem xsi:nil="true" ref="key116" />
+<Wherigo:WigoItem xsi:nil="true" ref="key115" />
 </Owner>
 </Actions:EventAction>
 </ClickAction>
@@ -18697,7 +18704,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key116" />
+<Wherigo:WigoItem xsi:nil="true" ref="key115" />
 </Target>
 <Property>
 <System:String>Visible</System:String>
@@ -18782,7 +18789,7 @@ Completion Code:
 </Actions:ValueExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key117" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key116" />
 </Media>
 </Actions:DialogEntryAction>
 </Actions>
@@ -18864,7 +18871,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+<Wherigo:WigoInput xsi:nil="true" ref="key117" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -18889,7 +18896,7 @@ Completion Code:
 </Actions:DialogAction>
 </Actions>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Owner>
 </Actions:EventAction>
 </EnterAction>
@@ -18899,7 +18906,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Owner>
 </Actions:EventAction>
 </ExitAction>
@@ -18909,7 +18916,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Owner>
 </Actions:EventAction>
 </DistantAction>
@@ -18919,7 +18926,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Owner>
 </Actions:EventAction>
 </ProximityAction>
@@ -18929,7 +18936,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Owner>
 </Actions:EventAction>
 </ActiveChangedAction>
@@ -19007,7 +19014,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key107" />
+<Wherigo:WigoItem xsi:nil="true" ref="key106" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -19046,7 +19053,7 @@ Completion Code:
 </Actions:ValueExpressionAction>
 </Text>
 <Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key106" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key105" />
 </Media>
 <Button1Text>
 <System:String xsi:nil="true" />
@@ -19080,7 +19087,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -19117,7 +19124,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+<Wherigo:WigoInput xsi:nil="true" ref="key117" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -19155,7 +19162,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoVariable xsi:nil="true" ref="key120" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key119" />
 </Target>
 </Actions:ObjectReferenceExpressionAction>
 </LeftContent>
@@ -19312,7 +19319,7 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -19376,7 +19383,7 @@ Completion Code:
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoFunction xsi:nil="true" ref="key121" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key120" />
 </Owner>
 </Actions:EventAction>
 </CallAction>
@@ -19434,349 +19441,12 @@ Completion Code:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key122" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Condition>
-<Actions:CompareExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Operator>
-<Actions:CompareExpressionOperator>Equal</Actions:CompareExpressionOperator>
-</Operator>
-<LeftContent>
-<Actions:InputAnswerExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-</Actions:InputAnswerExpressionAction>
-</LeftContent>
-<RightContent>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>Hill</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</RightContent>
-<IgnoreCase>
-<System:Boolean>True</System:Boolean>
-</IgnoreCase>
-</Actions:CompareExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Condition>
-<Actions:IExpressionAction xsi:nil="true" />
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-<Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Owner>
-</Actions:EventAction>
-</GetInputAction>
-<ErrorAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Owner>
-</Actions:EventAction>
-</ErrorAction>
-</Wherigo:WigoInput>
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Owner>
-<Wherigo:WigoCommand xsi:nil="true" ref="key123" />
-</Owner>
-</Actions:EventAction>
-</ExecuteAction>
-</Wherigo:WigoCommand>
-</Commands>
-<DistanceRange>
-<Wherigo:WigoDistance xsi:nil="true" />
-</DistanceRange>
-<ProximityRange>
-<Wherigo:WigoDistance>
-<Value>
-<System:Double>60</System:Double>
-</Value>
-<Unit>
-<Wherigo:WigoDistanceUnit>Meters</Wherigo:WigoDistanceUnit>
-</Unit>
-</Wherigo:WigoDistance>
-</ProximityRange>
-<ShowObjects>
-<Wherigo:WigoZoneShowObjects>OnEnter</Wherigo:WigoZoneShowObjects>
-</ShowObjects>
-<Active>
-<System:Boolean>False</System:Boolean>
-</Active>
-<OriginalPoint>
-<Wherigo:WigoCoordinate xsi:nil="true" />
-</OriginalPoint>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432868811386</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952550549417936</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432664417297</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952475243464503</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432419255754</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952441505530477</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432091210659</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952434603820473</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2431824421454</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.9524734487326</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2431617897147</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952523918077923</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2431613764093</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952585206784793</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2431963583422</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952671197207835</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432379039166</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952722807084627</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432674696308</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952719450780892</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432917884801</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952685890791205</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2433019248245</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952638422652905</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<EnterAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>This is my lake
-
-Have you come for water?</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String>Yes</System:String>
-</Button1Text>
-<Button2Text>
-<System:String>No</System:String>
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>I want a key to eat, first.
-Can I have one of yours please?</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String>Yes</System:String>
-</Button1Text>
-<Button2Text>
-<System:String>No</System:String>
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MoveAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<ItemContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem key="key125">
+<Wherigo:WigoInput key="key123">
 <Identifier>
 <System:String xsi:nil="true" />
 </Identifier>
 <Name>
-<System:String>Water</System:String>
+<System:String>LOM - Hill &gt; Lake</System:String>
 </Name>
 <Description>
 <System:String xsi:nil="true" />
@@ -19785,813 +19455,18 @@ Can I have one of yours please?</System:String>
 <System:Boolean>True</System:Boolean>
 </Visible>
 <Image>
-<Wherigo:WigoMedia xsi:nil="true" />
+<Wherigo:WigoMedia xsi:nil="true" ref="key121" />
 </Image>
 <Icon>
 <Wherigo:WigoMedia xsi:nil="true" />
 </Icon>
-<ObjectLocation>
-<Wherigo:WigoObjectLocation>
-<Container>
-<Wherigo:WigoZone xsi:nil="true" ref="key104" />
-</Container>
-<Location>
-<Wherigo:WigoCoordinate xsi:nil="true" />
-</Location>
-</Wherigo:WigoObjectLocation>
-</ObjectLocation>
-<ClickAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Owner>
-<Wherigo:WigoItem xsi:nil="true" ref="key125" />
-</Owner>
-</Actions:EventAction>
-</ClickAction>
-<Locked>
-<System:Boolean>False</System:Boolean>
-</Locked>
-<Opened>
-<System:Boolean>False</System:Boolean>
-</Opened>
-</Wherigo:WigoItem>
-</Target>
-</Actions:ObjectExpressionAction>
-</ItemContent>
-<ContainerContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ContainerContent>
-</Actions:MoveAction>
-</Actions>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
 <Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>You make take some water from my lake. 
-
-Do you want to know my name?</System:String>
-</Value>
-</Actions:ValueExpressionAction>
+<System:String>If you want to use my road you will have to tell me what sort of trees grow in the forest?</System:String>
 </Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String>Yes</System:String>
-</Button1Text>
-<Button2Text>
-<System:String>No</System:String>
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:FunctionCallAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<FunctionContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoFunction key="key126">
-<Identifier>
-<System:String xsi:nil="true" />
-</Identifier>
-<Name>
-<System:String>Land Of Mystery - Redhorn</System:String>
-</Name>
-<Description>
-<System:String xsi:nil="true" />
-</Description>
-<CallAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>My Name is Redhorn</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String xsi:nil="true" />
-</Button1Text>
-<Button2Text>
-<System:String xsi:nil="true" />
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Owner>
-<Wherigo:WigoFunction xsi:nil="true" ref="key126" />
-</Owner>
-</Actions:EventAction>
-</CallAction>
-</Wherigo:WigoFunction>
-</Target>
-</Actions:ObjectExpressionAction>
-</FunctionContent>
-</Actions:FunctionCallAction>
-</Actions>
-<Condition>
-<Actions:MessageBoxButtonExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Button>
-<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
-</Button>
-</Actions:MessageBoxButtonExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:MessageBoxButtonExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Button>
-<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
-</Button>
-</Actions:MessageBoxButtonExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Condition>
-<Actions:IExpressionAction xsi:nil="true" />
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:ContainsExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Mode>
-<Actions:ContainsExpressionMode>Contains</Actions:ContainsExpressionMode>
-</Mode>
-<ItemContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem key="key127">
-<Identifier>
-<System:String xsi:nil="true" />
-</Identifier>
-<Name>
-<System:String>Keys</System:String>
-</Name>
-<Description>
-<System:String>Looks like they will fit a big door!</System:String>
-</Description>
-<Visible>
-<System:Boolean>True</System:Boolean>
-</Visible>
-<Image>
-<Wherigo:WigoMedia xsi:nil="true" />
-</Image>
-<Icon>
-<Wherigo:WigoMedia xsi:nil="true" />
-</Icon>
-<ObjectLocation>
-<Wherigo:WigoObjectLocation>
-<Container>
-<Wherigo:WigoZone xsi:nil="true" ref="key98" />
-</Container>
-<Location>
-<Wherigo:WigoCoordinate xsi:nil="true" />
-</Location>
-</Wherigo:WigoObjectLocation>
-</ObjectLocation>
-<ClickAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Owner>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
-</Owner>
-</Actions:EventAction>
-</ClickAction>
-<Locked>
-<System:Boolean>False</System:Boolean>
-</Locked>
-<Opened>
-<System:Boolean>False</System:Boolean>
-</Opened>
-</Wherigo:WigoItem>
-</Target>
-</Actions:ObjectExpressionAction>
-</ItemContent>
-<ContainerContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ContainerContent>
-</Actions:ContainsExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>I want a key to eat, first.
-What a pity you don't have one?</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String xsi:nil="true" />
-</Button1Text>
-<Button2Text>
-<System:String xsi:nil="true" />
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:IExpressionAction xsi:nil="true" />
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-<Condition>
-<Actions:MessageBoxButtonExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Button>
-<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
-</Button>
-</Actions:MessageBoxButtonExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>Do you want to know my name?</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String>Yes</System:String>
-</Button1Text>
-<Button2Text>
-<System:String>No</System:String>
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>I want a key to eat, first. 
-Can I have one of yours please?</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String>Yes</System:String>
-</Button1Text>
-<Button2Text>
-<System:String>No</System:String>
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:FunctionCallAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<FunctionContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoFunction xsi:nil="true" ref="key126" />
-</Target>
-</Actions:ObjectExpressionAction>
-</FunctionContent>
-</Actions:FunctionCallAction>
-</Actions>
-<Condition>
-<Actions:MessageBoxButtonExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Button>
-<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
-</Button>
-</Actions:MessageBoxButtonExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:ContainsExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Mode>
-<Actions:ContainsExpressionMode>Contains</Actions:ContainsExpressionMode>
-</Mode>
-<ItemContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ItemContent>
-<ContainerContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ContainerContent>
-</Actions:ContainsExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>I want a key to eat, first.
-What a pity you don't have one?</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String xsi:nil="true" />
-</Button1Text>
-<Button2Text>
-<System:String xsi:nil="true" />
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:IExpressionAction xsi:nil="true" />
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-<Condition>
-<Actions:MessageBoxButtonExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Button>
-<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
-</Button>
-</Actions:MessageBoxButtonExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Condition>
-<Actions:IExpressionAction xsi:nil="true" />
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:IExpressionAction xsi:nil="true" />
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:AndExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:ContainsExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Mode>
-<Actions:ContainsExpressionMode>NotContains</Actions:ContainsExpressionMode>
-</Mode>
-<ItemContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key125" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ItemContent>
-<ContainerContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ContainerContent>
-</Actions:ContainsExpressionAction>
-</Actions>
-<Actions>
-<Actions:ContainsExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Mode>
-<Actions:ContainsExpressionMode>Contains</Actions:ContainsExpressionMode>
-</Mode>
-<ItemContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key125" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ItemContent>
-<ContainerContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key104" />
-</Target>
-</Actions:ObjectExpressionAction>
-</ContainerContent>
-</Actions:ContainsExpressionAction>
-</Actions>
-</Actions:AndExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-<Actions>
-<Actions:IfElseBranchAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>This is my lake</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" ref="key124" />
-</Media>
-<Button1Text>
-<System:String xsi:nil="true" />
-</Button1Text>
-<Button2Text>
-<System:String xsi:nil="true" />
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
-<Actions:InputAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-</Actions:DoAction>
-</ButtonClickedAction>
-</Actions:MessageBoxAction>
-</Actions>
-<Condition>
-<Actions:IExpressionAction xsi:nil="true" />
-</Condition>
-</Actions:IfElseBranchAction>
-</Actions>
-</Actions:IfElseAction>
-</Actions>
-<Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key104" />
-</Owner>
-</Actions:EventAction>
-</EnterAction>
-<ExitAction>
+<InputType>
+<Wherigo:WigoInputType>Text</Wherigo:WigoInputType>
+</InputType>
+<GetInputAction>
 <Actions:EventAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
@@ -20607,37 +19482,56 @@ What a pity you don't have one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Actions>
-<Actions:InputAction>
+<Actions:MessageBoxAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<InputContent>
-<Actions:ObjectExpressionAction>
+<Text>
+<Actions:ValueExpressionAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
-</Target>
-</Actions:ObjectExpressionAction>
-</InputContent>
-</Actions:InputAction>
-</Actions>
-<Condition>
-<Actions:CompareExpressionAction>
+<Value>
+<System:String>Thank You, you may pass!</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key121" />
+</Media>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<Operator>
-<Actions:CompareExpressionOperator>Equal</Actions:CompareExpressionOperator>
-</Operator>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:SetAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
 <LeftContent>
 <Actions:ObjectPropertyReferenceExpressionAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key104" />
+<Wherigo:WigoZone xsi:nil="true" ref="key101" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -20650,55 +19544,24 @@ What a pity you don't have one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:Boolean>True</System:Boolean>
+<System:Boolean>False</System:Boolean>
 </Value>
 </Actions:ValueExpressionAction>
 </RightContent>
-<IgnoreCase>
-<System:Boolean>True</System:Boolean>
-</IgnoreCase>
-</Actions:CompareExpressionAction>
-</Condition>
-</Actions:IfElseBranchAction>
+</Actions:SetAction>
 </Actions>
-</Actions:IfElseAction>
-</Actions>
-<Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key104" />
-</Owner>
-</Actions:EventAction>
-</ExitAction>
-<DistantAction>
-<Actions:EventAction>
+<Actions>
+<Actions:SetAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key104" />
-</Owner>
-</Actions:EventAction>
-</DistantAction>
-<ProximityAction>
-<Actions:EventAction>
+<LeftContent>
+<Actions:ObjectPropertyReferenceExpressionAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<Owner>
+<Target>
 <Wherigo:WigoZone xsi:nil="true" ref="key104" />
-</Owner>
-</Actions:EventAction>
-</ProximityAction>
-<ActiveChangedAction>
-<Actions:EventAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key104" />
-</Owner>
-</Actions:EventAction>
-</ActiveChangedAction>
-</Wherigo:WigoZone>
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -20895,7 +19758,7 @@ What a pity you don't have one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -20932,7 +19795,7 @@ What a pity you don't have one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -20957,7 +19820,7 @@ What a pity you don't have one?</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key122" />
+<Wherigo:WigoInput xsi:nil="true" ref="key123" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -20967,7 +19830,7 @@ What a pity you don't have one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key122" />
+<Wherigo:WigoInput xsi:nil="true" ref="key123" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -21014,18 +19877,1167 @@ What a pity you don't have one?</System:String>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
-<Actions>
-<Actions:SetAction>
+<Condition>
+<Actions:IExpressionAction xsi:nil="true" />
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+<Owner>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Owner>
+</Actions:EventAction>
+</GetInputAction>
+<ErrorAction>
+<Actions:EventAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
+<Owner>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Owner>
+</Actions:EventAction>
+</ErrorAction>
+</Wherigo:WigoInput>
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Owner>
+<Wherigo:WigoCommand xsi:nil="true" ref="key124" />
+</Owner>
+</Actions:EventAction>
+</ExecuteAction>
+</Wherigo:WigoCommand>
+</Commands>
+<DistanceRange>
+<Wherigo:WigoDistance xsi:nil="true" />
+</DistanceRange>
+<ProximityRange>
+<Wherigo:WigoDistance>
+<Value>
+<System:Double>60</System:Double>
+</Value>
+<Unit>
+<Wherigo:WigoDistanceUnit>Meters</Wherigo:WigoDistanceUnit>
+</Unit>
+</Wherigo:WigoDistance>
+</ProximityRange>
+<ShowObjects>
+<Wherigo:WigoZoneShowObjects>OnEnter</Wherigo:WigoZoneShowObjects>
+</ShowObjects>
+<Active>
+<System:Boolean>False</System:Boolean>
+</Active>
+<OriginalPoint>
+<Wherigo:WigoCoordinate xsi:nil="true" />
+</OriginalPoint>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2432868811386</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952550549417936</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2432664417297</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952475243464503</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2432419255754</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952441505530477</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2432091210659</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952434603820473</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2431824421454</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.9524734487326</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2431617897147</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952523918077923</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2431613764093</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952585206784793</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2431963583422</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952671197207835</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2432379039166</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952722807084627</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2432674696308</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952719450780892</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2432917884801</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952685890791205</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<Points>
+<Wherigo:WigoCoordinate>
+<Latitude>
+<System:Double>52.2433019248245</System:Double>
+</Latitude>
+<Longtitude>
+<System:Double>-0.952638422652905</System:Double>
+</Longtitude>
+</Wherigo:WigoCoordinate>
+</Points>
+<EnterAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>This is my lake
+
+Have you come for water?</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String>Yes</System:String>
+</Button1Text>
+<Button2Text>
+<System:String>No</System:String>
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>I want a key to eat, first.
+Can I have one of yours please?</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String>Yes</System:String>
+</Button1Text>
+<Button2Text>
+<System:String>No</System:String>
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MoveAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<ItemContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem key="key126">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>Water</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<Visible>
+<System:Boolean>True</System:Boolean>
+</Visible>
+<Image>
+<Wherigo:WigoMedia xsi:nil="true" />
+</Image>
+<Icon>
+<Wherigo:WigoMedia xsi:nil="true" />
+</Icon>
+<ObjectLocation>
+<Wherigo:WigoObjectLocation>
+<Container>
+<Wherigo:WigoZone xsi:nil="true" ref="key104" />
+</Container>
+<Location>
+<Wherigo:WigoCoordinate xsi:nil="true" />
+</Location>
+</Wherigo:WigoObjectLocation>
+</ObjectLocation>
+<ClickAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Owner>
+<Wherigo:WigoItem xsi:nil="true" ref="key126" />
+</Owner>
+</Actions:EventAction>
+</ClickAction>
+<Locked>
+<System:Boolean>False</System:Boolean>
+</Locked>
+<Opened>
+<System:Boolean>False</System:Boolean>
+</Opened>
+</Wherigo:WigoItem>
+</Target>
+</Actions:ObjectExpressionAction>
+</ItemContent>
+<ContainerContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ContainerContent>
+</Actions:MoveAction>
+</Actions>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>You make take some water from my lake. 
+
+Do you want to know my name?</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String>Yes</System:String>
+</Button1Text>
+<Button2Text>
+<System:String>No</System:String>
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:FunctionCallAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<FunctionContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoFunction key="key127">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>Land Of Mystery - Redhorn</System:String>
+</Name>
+<Description>
+<System:String xsi:nil="true" />
+</Description>
+<CallAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>My Name is Redhorn</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Owner>
+<Wherigo:WigoFunction xsi:nil="true" ref="key127" />
+</Owner>
+</Actions:EventAction>
+</CallAction>
+</Wherigo:WigoFunction>
+</Target>
+</Actions:ObjectExpressionAction>
+</FunctionContent>
+</Actions:FunctionCallAction>
+</Actions>
+<Condition>
+<Actions:MessageBoxButtonExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Button>
+<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
+</Button>
+</Actions:MessageBoxButtonExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:MessageBoxButtonExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Button>
+<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
+</Button>
+</Actions:MessageBoxButtonExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Condition>
+<Actions:IExpressionAction xsi:nil="true" />
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:ContainsExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Mode>
+<Actions:ContainsExpressionMode>Contains</Actions:ContainsExpressionMode>
+</Mode>
+<ItemContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem key="key128">
+<Identifier>
+<System:String xsi:nil="true" />
+</Identifier>
+<Name>
+<System:String>Keys</System:String>
+</Name>
+<Description>
+<System:String>Looks like they will fit a big door!</System:String>
+</Description>
+<Visible>
+<System:Boolean>True</System:Boolean>
+</Visible>
+<Image>
+<Wherigo:WigoMedia xsi:nil="true" />
+</Image>
+<Icon>
+<Wherigo:WigoMedia xsi:nil="true" />
+</Icon>
+<ObjectLocation>
+<Wherigo:WigoObjectLocation>
+<Container>
+<Wherigo:WigoZone xsi:nil="true" ref="key98" />
+</Container>
+<Location>
+<Wherigo:WigoCoordinate xsi:nil="true" />
+</Location>
+</Wherigo:WigoObjectLocation>
+</ObjectLocation>
+<ClickAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Owner>
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
+</Owner>
+</Actions:EventAction>
+</ClickAction>
+<Locked>
+<System:Boolean>False</System:Boolean>
+</Locked>
+<Opened>
+<System:Boolean>False</System:Boolean>
+</Opened>
+</Wherigo:WigoItem>
+</Target>
+</Actions:ObjectExpressionAction>
+</ItemContent>
+<ContainerContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ContainerContent>
+</Actions:ContainsExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>I want a key to eat, first.
+What a pity you don't have one?</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:IExpressionAction xsi:nil="true" />
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+<Condition>
+<Actions:MessageBoxButtonExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Button>
+<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
+</Button>
+</Actions:MessageBoxButtonExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>Do you want to know my name?</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String>Yes</System:String>
+</Button1Text>
+<Button2Text>
+<System:String>No</System:String>
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>I want a key to eat, first. 
+Can I have one of yours please?</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String>Yes</System:String>
+</Button1Text>
+<Button2Text>
+<System:String>No</System:String>
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:FunctionCallAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<FunctionContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoFunction xsi:nil="true" ref="key127" />
+</Target>
+</Actions:ObjectExpressionAction>
+</FunctionContent>
+</Actions:FunctionCallAction>
+</Actions>
+<Condition>
+<Actions:MessageBoxButtonExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Button>
+<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
+</Button>
+</Actions:MessageBoxButtonExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:ContainsExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Mode>
+<Actions:ContainsExpressionMode>Contains</Actions:ContainsExpressionMode>
+</Mode>
+<ItemContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ItemContent>
+<ContainerContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ContainerContent>
+</Actions:ContainsExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>I want a key to eat, first.
+What a pity you don't have one?</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:IExpressionAction xsi:nil="true" />
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+<Condition>
+<Actions:MessageBoxButtonExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Button>
+<Actions:WigoMessageBoxButton>Button1</Actions:WigoMessageBoxButton>
+</Button>
+</Actions:MessageBoxButtonExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Condition>
+<Actions:IExpressionAction xsi:nil="true" />
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:IExpressionAction xsi:nil="true" />
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:AndExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:ContainsExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Mode>
+<Actions:ContainsExpressionMode>NotContains</Actions:ContainsExpressionMode>
+</Mode>
+<ItemContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key126" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ItemContent>
+<ContainerContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ContainerContent>
+</Actions:ContainsExpressionAction>
+</Actions>
+<Actions>
+<Actions:ContainsExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Mode>
+<Actions:ContainsExpressionMode>Contains</Actions:ContainsExpressionMode>
+</Mode>
+<ItemContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoItem xsi:nil="true" ref="key126" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ItemContent>
+<ContainerContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoZone xsi:nil="true" ref="key104" />
+</Target>
+</Actions:ObjectExpressionAction>
+</ContainerContent>
+</Actions:ContainsExpressionAction>
+</Actions>
+</Actions:AndExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>This is my lake</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" ref="key125" />
+</Media>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+</Actions:MessageBoxAction>
+</Actions>
+<Condition>
+<Actions:IExpressionAction xsi:nil="true" />
+</Condition>
+</Actions:IfElseBranchAction>
+</Actions>
+</Actions:IfElseAction>
+</Actions>
+<Owner>
+<Wherigo:WigoZone xsi:nil="true" ref="key104" />
+</Owner>
+</Actions:EventAction>
+</EnterAction>
+<ExitAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:IfElseBranchAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:InputAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<InputContent>
+<Actions:ObjectExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Target>
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+</Target>
+</Actions:ObjectExpressionAction>
+</InputContent>
+</Actions:InputAction>
+</Actions>
+<Condition>
+<Actions:CompareExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Operator>
+<Actions:CompareExpressionOperator>Equal</Actions:CompareExpressionOperator>
+</Operator>
 <LeftContent>
 <Actions:ObjectPropertyReferenceExpressionAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key104" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -21038,24 +21050,55 @@ What a pity you don't have one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:Boolean>False</System:Boolean>
+<System:Boolean>True</System:Boolean>
 </Value>
 </Actions:ValueExpressionAction>
 </RightContent>
-</Actions:SetAction>
+<IgnoreCase>
+<System:Boolean>True</System:Boolean>
+</IgnoreCase>
+</Actions:CompareExpressionAction>
+</Condition>
+</Actions:IfElseBranchAction>
 </Actions>
-<Actions>
-<Actions:SetAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<LeftContent>
-<Actions:ObjectPropertyReferenceExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Target>
+</Actions:IfElseAction>
+</Actions>
+<Owner>
 <Wherigo:WigoZone xsi:nil="true" ref="key104" />
+</Owner>
+</Actions:EventAction>
+</ExitAction>
+<DistantAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Owner>
+<Wherigo:WigoZone xsi:nil="true" ref="key104" />
+</Owner>
+</Actions:EventAction>
+</DistantAction>
+<ProximityAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Owner>
+<Wherigo:WigoZone xsi:nil="true" ref="key104" />
+</Owner>
+</Actions:EventAction>
+</ProximityAction>
+<ActiveChangedAction>
+<Actions:EventAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Owner>
+<Wherigo:WigoZone xsi:nil="true" ref="key104" />
+</Owner>
+</Actions:EventAction>
+</ActiveChangedAction>
+</Wherigo:WigoZone>
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -22550,7 +22593,7 @@ You might like to wait until you've found Jessica before heading off to grab the
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
 </Target>
 <Property>
 <System:String>Visible</System:String>
@@ -22607,7 +22650,7 @@ You might like to wait until you've found Jessica before heading off to grab the
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -22928,7 +22971,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Owner>
 </Actions:EventAction>
 </EnterAction>
@@ -22978,7 +23021,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -23005,7 +23048,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Owner>
 </Actions:EventAction>
 </ExitAction>
@@ -23015,7 +23058,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Owner>
 </Actions:EventAction>
 </DistantAction>
@@ -23025,7 +23068,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Owner>
 </Actions:EventAction>
 </ProximityAction>
@@ -23035,7 +23078,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Owner>
 </Actions:EventAction>
 </ActiveChangedAction>
@@ -23119,7 +23162,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -23236,7 +23279,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -23463,7 +23506,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key122" />
+<Wherigo:WigoInput xsi:nil="true" ref="key123" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -23514,7 +23557,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -23524,7 +23567,7 @@ I am hungry, to enter the Castle you must bring me a cake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -23859,7 +23902,7 @@ Do you want to take one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key107" />
+<Wherigo:WigoItem xsi:nil="true" ref="key106" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -23886,7 +23929,7 @@ Do you want to take one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -23967,7 +24010,7 @@ Do you want to take one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -24007,7 +24050,7 @@ Do you want to take one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key107" />
+<Wherigo:WigoItem xsi:nil="true" ref="key106" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -24037,7 +24080,7 @@ Do you want to take one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key107" />
+<Wherigo:WigoItem xsi:nil="true" ref="key106" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -24073,7 +24116,7 @@ Do you want to take one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -24249,7 +24292,7 @@ Do you want to take one?</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -24826,7 +24869,7 @@ There is a huge bunch of keys on the ground, would you like to take it?</System:
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -25339,7 +25382,7 @@ You had better go, quickly. </System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -25369,7 +25412,7 @@ You had better go, quickly. </System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -25590,7 +25633,7 @@ You had better go, quickly. </System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -25657,7 +25700,7 @@ You had better go, quickly. </System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoFunction xsi:nil="true" ref="key121" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key120" />
 </Target>
 </Actions:ObjectExpressionAction>
 </FunctionContent>
@@ -25708,7 +25751,7 @@ You had better go, quickly. </System:String>
 </Actions:IfElseAction>
 </Actions>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+<Wherigo:WigoInput xsi:nil="true" ref="key117" />
 </Owner>
 </Actions:EventAction>
 </GetInputAction>
@@ -25718,7 +25761,7 @@ You had better go, quickly. </System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Owner>
-<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+<Wherigo:WigoInput xsi:nil="true" ref="key117" />
 </Owner>
 </Actions:EventAction>
 </ErrorAction>
@@ -26014,7 +26057,7 @@ Please take your litter home with you</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key125" />
+<Wherigo:WigoItem xsi:nil="true" ref="key126" />
 </Target>
 <Property>
 <System:String>Visible</System:String>
@@ -26102,7 +26145,7 @@ The fire is now out.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -26132,7 +26175,7 @@ The fire is now out.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoCommand xsi:nil="true" ref="key123" />
+<Wherigo:WigoCommand xsi:nil="true" ref="key124" />
 </Target>
 <Property>
 <System:String>Enabled</System:String>
@@ -26172,7 +26215,7 @@ The fire is now out.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key125" />
+<Wherigo:WigoItem xsi:nil="true" ref="key126" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -26239,7 +26282,7 @@ Fetch some water from the lake</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+<Wherigo:WigoInput xsi:nil="true" ref="key117" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -26463,7 +26506,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+<Wherigo:WigoInput xsi:nil="true" ref="key117" />
 </Target>
 </Actions:ObjectExpressionAction>
 </InputContent>
@@ -26524,7 +26567,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -26763,100 +26806,80 @@ You will have to try again later.</System:String>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434628878959</System:Double>
+<System:Double>52.2435062785115</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952456876641141</System:Double>
+<System:Double>-0.952461498214765</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434472717456</System:Double>
+<System:Double>52.2434746267135</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952394341706031</System:Double>
+<System:Double>-0.952375855411516</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.243432901317</System:Double>
+<System:Double>52.2434074328752</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952385624538943</System:Double>
+<System:Double>-0.952360976146216</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.243416477949</System:Double>
+<System:Double>52.2433665728223</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952393671116147</System:Double>
+<System:Double>-0.952428465004798</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434090874219</System:Double>
+<System:Double>52.2433645855236</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952408423217748</System:Double>
+<System:Double>-0.95253223856866</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434222261164</System:Double>
+<System:Double>52.2433941262997</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952480842839267</System:Double>
+<System:Double>-0.95260203330527</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434419341541</System:Double>
+<System:Double>52.2434475816394</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952559968010442</System:Double>
+<System:Double>-0.952614611722478</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434526093841</System:Double>
+<System:Double>52.2434926588705</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.952561979667224</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2434673904108</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952549909691744</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2434719068359</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.952532475333148</System:Double>
+<System:Double>-0.95256790739759</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
@@ -27144,7 +27167,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -27204,7 +27227,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Target>
 <Property>
 <System:String>Active</System:String>
@@ -27264,7 +27287,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -27318,7 +27341,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key107" />
+<Wherigo:WigoItem xsi:nil="true" ref="key106" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -27345,7 +27368,7 @@ You will have to try again later.</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Target>
-<Wherigo:WigoItem xsi:nil="true" ref="key125" />
+<Wherigo:WigoItem xsi:nil="true" ref="key126" />
 </Target>
 </Actions:ObjectExpressionAction>
 </ItemContent>
@@ -27785,160 +27808,80 @@ You will have to try again later.</System:String>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434630427622</System:Double>
+<System:Double>52.2438306474621</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950323240022617</System:Double>
+<System:Double>-0.950064930357799</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2434305389788</System:Double>
+<System:Double>52.2436965365929</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950243088265765</System:Double>
+<System:Double>-0.950015651414053</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2433950666131</System:Double>
+<System:Double>52.2435606399022</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950178184630139</System:Double>
+<System:Double>-0.949983862382286</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2433498048681</System:Double>
+<System:Double>52.2435272205203</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950139523274482</System:Double>
+<System:Double>-0.950314846326819</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2433049247342</System:Double>
+<System:Double>52.2436605882053</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950146665398794</System:Double>
+<System:Double>-0.950381266717726</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2432440532715</System:Double>
+<System:Double>52.2438087250509</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950185044792857</System:Double>
+<System:Double>-0.950408425468454</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2431935049817</System:Double>
+<System:Double>52.2438746893144</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.9502405488348</System:Double>
+<System:Double>-0.950311118567857</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>52.2431338564456</System:Double>
+<System:Double>52.243883357538</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>-0.950316526956834</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2430981374338</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.95041849289079</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2431063863301</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.950564843875181</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.243139312743</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.950651069948063</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432380082121</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.950639628026633</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2432912509826</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.950626591364843</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2433656122552</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.950588788521227</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2434288906325</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.950518103005167</System:Double>
-</Longtitude>
-</Wherigo:WigoCoordinate>
-</Points>
-<Points>
-<Wherigo:WigoCoordinate>
-<Latitude>
-<System:Double>52.2434554929734</System:Double>
-</Latitude>
-<Longtitude>
-<System:Double>-0.950433199840468</System:Double>
+<System:Double>-0.950169550727347</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
@@ -31546,7 +31489,7 @@ it contains:-
 <Wherigo:WigoZone xsi:nil="true" ref="key98" />
 </Zones>
 <Zones>
-<Wherigo:WigoZone xsi:nil="true" ref="key105" />
+<Wherigo:WigoZone xsi:nil="true" ref="key103" />
 </Zones>
 <Zones>
 <Wherigo:WigoZone xsi:nil="true" ref="key97" />
@@ -31555,7 +31498,7 @@ it contains:-
 <Wherigo:WigoZone xsi:nil="true" ref="key104" />
 </Zones>
 <Zones>
-<Wherigo:WigoZone xsi:nil="true" ref="key115" />
+<Wherigo:WigoZone xsi:nil="true" ref="key114" />
 </Zones>
 <Zones>
 <Wherigo:WigoZone xsi:nil="true" ref="key44" />
@@ -32238,7 +32181,7 @@ it contains:-
 <Wherigo:WigoZone xsi:nil="true" ref="key138" />
 </Zones>
 <Zones>
-<Wherigo:WigoZone xsi:nil="true" ref="key112" />
+<Wherigo:WigoZone xsi:nil="true" ref="key111" />
 </Zones>
 <Items>
 <Wherigo:WigoItem xsi:nil="true" ref="key29" />
@@ -32841,13 +32784,13 @@ You will have to try again later.</System:String>
 <Wherigo:WigoItem xsi:nil="true" ref="key83" />
 </Items>
 <Items>
-<Wherigo:WigoItem xsi:nil="true" ref="key125" />
+<Wherigo:WigoItem xsi:nil="true" ref="key126" />
 </Items>
 <Items>
-<Wherigo:WigoItem xsi:nil="true" ref="key107" />
+<Wherigo:WigoItem xsi:nil="true" ref="key106" />
 </Items>
 <Items>
-<Wherigo:WigoItem xsi:nil="true" ref="key127" />
+<Wherigo:WigoItem xsi:nil="true" ref="key128" />
 </Items>
 <Items>
 <Wherigo:WigoItem xsi:nil="true" ref="key132" />
@@ -32856,7 +32799,7 @@ You will have to try again later.</System:String>
 <Wherigo:WigoItem xsi:nil="true" ref="key135" />
 </Items>
 <Items>
-<Wherigo:WigoItem xsi:nil="true" ref="key110" />
+<Wherigo:WigoItem xsi:nil="true" ref="key109" />
 </Items>
 <Items>
 <Wherigo:WigoItem key="key178">
@@ -32900,7 +32843,7 @@ You will have to try again later.</System:String>
 </Wherigo:WigoItem>
 </Items>
 <Items>
-<Wherigo:WigoItem xsi:nil="true" ref="key116" />
+<Wherigo:WigoItem xsi:nil="true" ref="key115" />
 </Items>
 <Characters>
 <Wherigo:WigoCharacter xsi:nil="true" ref="key37" />
@@ -37540,7 +37483,7 @@ You will have to try someone else.</System:String>
 <Wherigo:WigoVariable xsi:nil="true" ref="key147" />
 </Variables>
 <Variables>
-<Wherigo:WigoVariable xsi:nil="true" ref="key120" />
+<Wherigo:WigoVariable xsi:nil="true" ref="key119" />
 </Variables>
 <Tasks>
 <Wherigo:WigoTask xsi:nil="true" ref="key3" />
@@ -37579,19 +37522,19 @@ You will have to try someone else.</System:String>
 <Wherigo:WigoInput xsi:nil="true" ref="key143" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key128" />
+<Wherigo:WigoInput xsi:nil="true" ref="key122" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key118" />
+<Wherigo:WigoInput xsi:nil="true" ref="key117" />
 </Inputs>
 <Inputs>
 <Wherigo:WigoInput xsi:nil="true" ref="key140" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key122" />
+<Wherigo:WigoInput xsi:nil="true" ref="key123" />
 </Inputs>
 <Inputs>
-<Wherigo:WigoInput xsi:nil="true" ref="key119" />
+<Wherigo:WigoInput xsi:nil="true" ref="key118" />
 </Inputs>
 <Inputs>
 <Wherigo:WigoInput xsi:nil="true" ref="key129" />
@@ -38100,10 +38043,10 @@ You will have to try someone else.</System:String>
 <Wherigo:WigoFunction xsi:nil="true" ref="key142" />
 </Functions>
 <Functions>
-<Wherigo:WigoFunction xsi:nil="true" ref="key126" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key127" />
 </Functions>
 <Functions>
-<Wherigo:WigoFunction xsi:nil="true" ref="key121" />
+<Wherigo:WigoFunction xsi:nil="true" ref="key120" />
 </Functions>
 <Player>
 <Wherigo:WigoPlayer xsi:nil="true" ref="key30" />
