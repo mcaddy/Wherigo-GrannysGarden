@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>02/07/2019 11:01:15</System:DateTime>
+<System:DateTime>02/07/2019 14:19:58</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -21897,7 +21897,7 @@ You might like to wait until you've found Jessica before heading off to grab the
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>HINT : The most southerly seat</System:String>
+<System:String>HINT : The most south easterly seat</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
@@ -22131,7 +22131,7 @@ You might like to wait until you've found Jessica before heading off to grab the
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Value>
-<System:String>HINT : The most southerly seat</System:String>
+<System:String>HINT : The most south easterly seat</System:String>
 </Value>
 </Actions:ValueExpressionAction>
 </Text>
