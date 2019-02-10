@@ -93,7 +93,7 @@
 </Wherigo:WigoCoordinate>
 </StartingLocation>
 <Version>
-<System:String>1.4</System:String>
+<System:String>1.8</System:String>
 </Version>
 <Company>
 <System:String xsi:nil="true" />
@@ -105,7 +105,7 @@
 <System:DateTime>02/27/2016 21:34:55</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>02/09/2019 12:17:22</System:DateTime>
+<System:DateTime>02/10/2019 15:12:27</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -9251,35 +9251,6 @@ It's dead!</System:String>
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Actions>
-<Actions:MessageBoxAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Text>
-<Actions:ValueExpressionAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Value>
-<System:String>Head over to the pond to get started.</System:String>
-</Value>
-</Actions:ValueExpressionAction>
-</Text>
-<Media>
-<Wherigo:WigoMedia xsi:nil="true" />
-</Media>
-<Button1Text>
-<System:String xsi:nil="true" />
-</Button1Text>
-<Button2Text>
-<System:String xsi:nil="true" />
-</Button2Text>
-<ButtonClickedAction>
-<Actions:DoAction>
-<Enabled>
-<System:Boolean>True</System:Boolean>
-</Enabled>
-<Actions>
 <Actions:FunctionCallAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
@@ -10872,6 +10843,35 @@ You will need help to cross the pond</System:String>
 </FunctionContent>
 </Actions:FunctionCallAction>
 </Actions>
+<Actions>
+<Actions:MessageBoxAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>Head over to the pond to get started.</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" />
+</Media>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
 </Actions:DoAction>
 </ButtonClickedAction>
 </Actions:MessageBoxAction>
